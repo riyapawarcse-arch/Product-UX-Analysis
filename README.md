@@ -1,2 +1,1 @@
-# Product-UX-Analysis
-Common UX observation 
+This repository contains product and UX analysis of popular applications from a student perspective.
